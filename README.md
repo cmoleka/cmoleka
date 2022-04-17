@@ -12,7 +12,10 @@ I started coding, and learning the fundamentals “seriously” 5 years ago. Sin
 *   🚀  I'm currently working on [GoLooka - Employment platform](http://golooka.com)
 *   🧠  I'm learning Solidity for EVM blockchain development.
 *   🤝  I'm open to collaborating on Interesting projects.
-*   ⚡  I wanna be a billionaire (T\_T)### Skills<p align="left">
+*   ⚡  I wanna be a billionaire (T\_T)
+
+### Skills
+<p align="left">
                                 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
                                 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
                                 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="Typescript" /></a>
@@ -31,12 +34,11 @@ I started coding, and learning the fundamentals “seriously” 5 years ago. Sin
                                 <a href="https://www.sketch.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sketch-colored.svg" width="36" height="36" alt="Sketch" /></a>
                                 <a href="https://ethereum.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethereum-colored.svg" width="36" height="36" alt="Ethereum" /></a>
                                 <a href="https://hardhat.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/hardhat-colored.svg" width="36" height="36" alt="Hardhat" /></a>
-                    </p>
+</p>
                     
-                  ### Socials
+### Socials
                   
-                  
-                <p align="left">
+<p align="left">
                           
                       <a href="https://www.github.com/cmoleka" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
                           
