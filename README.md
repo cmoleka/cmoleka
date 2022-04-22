@@ -10,7 +10,7 @@ I started coding, and learning the fundamentals “seriously” 5 years ago. Sin
 *   🖥️  See my portfolio at [dev.carlomoleka.com](http://dev.carlomoleka.com)
 *   ✉️  You can contact me at [me@carlomoleka.com](mailto:me@carlomoleka.com)
 *   🚀  I'm currently working on [GoLooka - Employment platform](http://golooka.com)
-*   🧠  I'm learning Solidity for EVM blockchain development.
+*   🧠  I'm learning Programing Bitcoin & Solidity for EVM blockchain development.
 *   🤝  I'm open to collaborating on Interesting projects.
 *   ⚡  I wanna be a billionaire (T\_T)
 
