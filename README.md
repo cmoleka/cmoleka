@@ -6,7 +6,6 @@ Professional internet surfer. Coder.
 
 *   🌍  I'm based in Montreal, Canada
 *   🤝  I'm open to collaborating on projects.
-*   🧠  I'm currently learning Data Science.
 
 
 **How to reach me**
@@ -15,6 +14,3 @@ Professional internet surfer. Coder.
 *   📺 Check out my [YouTube](https://www.youtube.com/channel/UCe00T7IBPl4pWa8ti4qyPtA)
 *   🐦 I spend too much time on [Twitter](https://twitter.com/CarloMoleka) 
 
-**Updates and Notes**
-- Planning to make more content
-- Buy more books
