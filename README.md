@@ -17,9 +17,4 @@ Professional internet surfer. Coder.
 
 | Image | Title          | Description          | Technologies                   | Status | Link                |
 |-------|----------------|----------------------|--------------------------------|--------|---------------------|
-| ![alt Golooka](https://i.imgur.com/YByK1jQ.png) | Golooka Job Platform     | Golooka is a job platform that aims to connect talented individuals with employers, all while making the job search process a whole lot easier. | - Typescript <br>
-- NextJS <br>
-- Tailwindcss <br>
-- PostgreSQL <br>
-- [Shadcn UI Components](https://ui.shadcn.com/) <br>
-- tRPC, Prisma, React-Hook-Forms | In Progress | [Visit](https://www.golooka.com) |
+| ![alt Golooka](https://i.imgur.com/YByK1jQ.png) | Golooka Job Platform     | Golooka is a job platform that aims to connect talented individuals with employers, all while making the job search process a whole lot easier. | - Typescript <br> - NextJS <br> - Tailwindcss <br> - PostgreSQL <br> - [Shadcn UI Components](https://ui.shadcn.com/) <br> - tRPC, Prisma, React-Hook-Forms | In Progress | [Visit](https://www.golooka.com) |
