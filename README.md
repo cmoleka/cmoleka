@@ -1,4 +1,4 @@
-Hi 👋 My name is Carlo Moleka
+Hi 👋 My name is SAMBEA
 =============================
 
 Professional internet surfer. Coder.
@@ -6,11 +6,6 @@ Professional internet surfer. Coder.
 
 *   🌍  I'm based in Montreal, Canada
 *   🤝  I'm open to Network, Collaborating and Hire.
-
-
-**How to reach me**
-*   ✉️  Work related? [hireme@carlomoleka.com](mailto:hireme@carlomoleka.com)
-*   📺 Check out my [YouTube](https://www.youtube.com/channel/UCe00T7IBPl4pWa8ti4qyPtA)
 
 
 # Projects
